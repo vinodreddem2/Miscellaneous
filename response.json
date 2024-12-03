@@ -1,0 +1,224 @@
+{
+    "expand": "schema,names",
+    "startAt": 0,
+    "maxResults": 50,
+    "total": 10,
+    "issues": [
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "1963814",
+            "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/issue/1963814",
+            "key": "VWICAS23-230459",
+            "fields": {
+                "summary": "[PoC] [Implementation] [Part2] Ticket Impediment and Quality Tracker",
+                "customfield_10000": "VWICAS23-217365",
+                "assignee": {
+                    "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/user?username=uig56260",
+                    "name": "uig56260",
+                    "key": "JIRAUSER95685",
+                    "emailAddress": "b.vijaya@continental-corporation.com",
+                    "avatarUrls": {
+                        "48x48": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?avatarId=10122",
+                        "24x24": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=small&avatarId=10122",
+                        "16x16": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=xsmall&avatarId=10122",
+                        "32x32": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=medium&avatarId=10122"
+                    },
+                    "displayName": "Vijaya, B",
+                    "active": true,
+                    "timeZone": "Europe/Berlin"
+                },
+                "timespent": null,
+                "timeoriginalestimate": 360000
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "1959242",
+            "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/issue/1959242",
+            "key": "VWICAS23-229578",
+            "fields": {
+                "summary": "[SPT]-Limitation of Gen2 setup",
+                "customfield_10000": "VWICAS23-217365",
+                "assignee": {
+                    "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/user?username=uif67314",
+                    "name": "uif67314",
+                    "key": "JIRAUSER89166",
+                    "emailAddress": "giridhar.kini@continental-corporation.com",
+                    "avatarUrls": {
+                        "48x48": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?ownerId=JIRAUSER89166&avatarId=68829",
+                        "24x24": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=small&ownerId=JIRAUSER89166&avatarId=68829",
+                        "16x16": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=xsmall&ownerId=JIRAUSER89166&avatarId=68829",
+                        "32x32": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=medium&ownerId=JIRAUSER89166&avatarId=68829"
+                    },
+                    "displayName": "Kini, Giridhar",
+                    "active": true,
+                    "timeZone": "Europe/Berlin"
+                },
+                "timespent": null,
+                "timeoriginalestimate": 432000
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "1932717",
+            "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/issue/1932717",
+            "key": "VWICAS23-223372",
+            "fields": {
+                "summary": "Jira Automation Documentation",
+                "customfield_10000": "VWICAS23-217365",
+                "assignee": {
+                    "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/user?username=uif38882",
+                    "name": "uif38882",
+                    "key": "JIRAUSER88778",
+                    "emailAddress": "elango.g@continental-corporation.com",
+                    "avatarUrls": {
+                        "48x48": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?ownerId=JIRAUSER88778&avatarId=68823",
+                        "24x24": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=small&ownerId=JIRAUSER88778&avatarId=68823",
+                        "16x16": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=xsmall&ownerId=JIRAUSER88778&avatarId=68823",
+                        "32x32": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=medium&ownerId=JIRAUSER88778&avatarId=68823"
+                    },
+                    "displayName": "Gowthaman, Elango",
+                    "active": true,
+                    "timeZone": "Europe/Berlin"
+                },
+                "timespent": null,
+                "timeoriginalestimate": 504000
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "1931914",
+            "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/issue/1931914",
+            "key": "VWICAS23-222793",
+            "fields": {
+                "summary": "Innovation for PI24.23",
+                "customfield_10000": "VWICAS23-217365",
+                "assignee": {
+                    "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/user?username=uig18778",
+                    "name": "uig18778",
+                    "key": "JIRAUSER92524",
+                    "emailAddress": "vignesh.s@continental-corporation.com",
+                    "avatarUrls": {
+                        "48x48": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?ownerId=JIRAUSER92524&avatarId=69228",
+                        "24x24": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=small&ownerId=JIRAUSER92524&avatarId=69228",
+                        "16x16": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=xsmall&ownerId=JIRAUSER92524&avatarId=69228",
+                        "32x32": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=medium&ownerId=JIRAUSER92524&avatarId=69228"
+                    },
+                    "displayName": "S, Vignesh",
+                    "active": true,
+                    "timeZone": "Europe/Berlin"
+                },
+                "timespent": null,
+                "timeoriginalestimate": 576000
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "1931018",
+            "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/issue/1931018",
+            "key": "VWICAS23-222216",
+            "fields": {
+                "summary": "Autokins activity",
+                "customfield_10000": "VWICAS23-217377",
+                "assignee": {
+                    "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/user?username=uie99512",
+                    "name": "uie99512",
+                    "key": "JIRAUSER85061",
+                    "emailAddress": "kiran.kumar.r@continental-corporation.com",
+                    "avatarUrls": {
+                        "48x48": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?ownerId=JIRAUSER85061&avatarId=68833",
+                        "24x24": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=small&ownerId=JIRAUSER85061&avatarId=68833",
+                        "16x16": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=xsmall&ownerId=JIRAUSER85061&avatarId=68833",
+                        "32x32": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=medium&ownerId=JIRAUSER85061&avatarId=68833"
+                    },
+                    "displayName": "R, Kiran Kumar",
+                    "active": true,
+                    "timeZone": "Europe/Berlin"
+                },
+                "timespent": null,
+                "timeoriginalestimate": 648000
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "1931017",
+            "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/issue/1931017",
+            "key": "VWICAS23-222215",
+            "fields": {
+                "summary": "OMR Review for PI24.23",
+                "customfield_10000": "VWICAS23-217377",
+                "assignee": {
+                    "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/user?username=uif77482",
+                    "name": "uif77482",
+                    "key": "JIRAUSER87987",
+                    "emailAddress": "govindarajan.s@continental-corporation.com",
+                    "avatarUrls": {
+                        "48x48": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?ownerId=JIRAUSER87987&avatarId=68817",
+                        "24x24": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=small&ownerId=JIRAUSER87987&avatarId=68817",
+                        "16x16": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=xsmall&ownerId=JIRAUSER87987&avatarId=68817",
+                        "32x32": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=medium&ownerId=JIRAUSER87987&avatarId=68817"
+                    },
+                    "displayName": "S, Govindarajan",
+                    "active": true,
+                    "timeZone": "Europe/Berlin"
+                },
+                "timespent": null,
+                "timeoriginalestimate": 720000
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "1931016",
+            "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/issue/1931016",
+            "key": "VWICAS23-222214",
+            "fields": {
+                "summary": "Roadmap Planning for PI24.23",
+                "customfield_10000": "VWICAS23-217377",
+                "assignee": {
+                    "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/user?username=uig15161",
+                    "name": "uig15161",
+                    "key": "JIRAUSER86152",
+                    "emailAddress": "pavithra.p@continental-corporation.com",
+                    "avatarUrls": {
+                        "48x48": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?ownerId=JIRAUSER86152&avatarId=68819",
+                        "24x24": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=small&ownerId=JIRAUSER86152&avatarId=68819",
+                        "16x16": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=xsmall&ownerId=JIRAUSER86152&avatarId=68819",
+                        "32x32": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=medium&ownerId=JIRAUSER86152&avatarId=68819"
+                    },
+                    "displayName": "Pavithra, P",
+                    "active": true,
+                    "timeZone": "Europe/Berlin"
+                },
+                "timespent": null,
+                "timeoriginalestimate": 792000
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "1931015",
+            "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/issue/1931015",
+            "key": "VWICAS23-222213",
+            "fields": {
+                "summary": "Test Automation for PI24.23",
+                "customfield_10000": "VWICAS23-217377",
+                "assignee": {
+                    "self": "https://jira-ibs.zone2.agileci.conti.de/rest/api/2/user?username=uig15161",
+                    "name": "uig15161",
+                    "key": "JIRAUSER86152",
+                    "emailAddress": "pavithra.p@continental-corporation.com",
+                    "avatarUrls": {
+                        "48x48": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?ownerId=JIRAUSER86152&avatarId=68819",
+                        "24x24": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=small&ownerId=JIRAUSER86152&avatarId=68819",
+                        "16x16": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=xsmall&ownerId=JIRAUSER86152&avatarId=68819",
+                        "32x32": "https://jira-ibs.zone2.agileci.conti.de/secure/useravatar?size=medium&ownerId=JIRAUSER86152&avatarId=68819"
+                    },
+                    "displayName": "Pavithra, P",
+                    "active": true,
+                    "timeZone": "Europe/Berlin"
+                },
+                "timespent": null,
+                "timeoriginalestimate": 864000
+            }
+        }
+    ]
+}
